@@ -3,7 +3,7 @@
 [![Go Reference](https://pkg.go.dev/badge/github.com/avito-tech/normalize.svg)](https://pkg.go.dev/github.com/avito-tech/normalize)
 [![ci](https://github.com/avito-tech/normalize/actions/workflows/ci.yml/badge.svg)](https://github.com/avito-tech/normalize/actions/workflows/ci.yml)
 [![codecov](https://codecov.io/gh/avito-tech/normalize/branch/master/graph/badge.svg?token=DJMFEBX8H7)](https://codecov.io/gh/avito-tech/normalize)
-[![Go Report Card](https://goreportcard.com/badge/github.com/avito-tech/normalize)](https://goreportcard.com/report/github.com/avito-tech/normalize)
+[![Go Report Card](https://goreportcard.com/badge/github.com/avito-tech/normalize?style=flat)](https://goreportcard.com/report/github.com/avito-tech/normalize)
 
 Simple library for fuzzy text sanitizing, normalizing and comparison.
 
